@@ -46,7 +46,7 @@ export default function ProfileScreen() {
           {/* Name Row */}
           <View style={styles.infoGroup}>
             <Text style={styles.label}>Name</Text>
-            <Text style={styles.value}>Diluka</Text>
+            <Text style={styles.value}>nimsara</Text>
           </View>
 
           {/* Email Row */}
@@ -54,7 +54,7 @@ export default function ProfileScreen() {
             <Text style={styles.label}>Email</Text>
             <View style={styles.iconRow}>
               <Ionicons name="mail" size={18} color="#000" style={styles.icon} />
-              <Text style={styles.value}>diluka.w@nsbm.ac.lk</Text>
+              <Text style={styles.value}>nimsara.@nsbm.ac.lk</Text>
             </View>
           </View>
 
